@@ -5,6 +5,6 @@ This script renders Bad Apple in systemd-bsod. It reads the text frames from fra
 How to run:
 
 - Checkout the project or download the files of this repository
-- Be sudo ;)
+- Be root (on most GNU/Linux systems it's done with prefixing your command with `sudo`)
 - Run ./bad-apple-sod.sh
 - Enjoy
